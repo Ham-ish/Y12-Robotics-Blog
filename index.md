@@ -1,9 +1,10 @@
 Robotics Blog
 
-Most Recent Post:
+# Most Recent Post:
+
 [6/3/23 Exam Blog](Blogs/6_3_23 Blog.md)
 
-All posts
+## All posts
 
 * [6/3/23 Exam Blog](Blogs/6_3_23 Blog.md)
 
