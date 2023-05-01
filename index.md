@@ -2,9 +2,11 @@ Robotics Blog
 
 # Most Recent Post:
 
-[3/4/23 Finishing Blog](Blogs/3_4_23 Blog.md)
+[1/5/23 Beginning Blog](Blogs/1_5_23 Blog.md)
 
 ## All posts
+
+* [1/5/23 Beginning Blog](Blogs/1_5_23 Blog.md)
 
 * [3/4/23 Finishing Blog](Blogs/3_4_23 Blog.md)
 
