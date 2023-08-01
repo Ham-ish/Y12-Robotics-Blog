@@ -2,9 +2,11 @@ Robotics Blog
 
 # Most Recent Post:
 
-[24/7/23 PDD Blog](Blogs/24_7_23 Blog.md)
+[31/7/23 Semester 2 Blog](Blogs/31_7_23 Blog.md)
 
 ## All posts
+
+* [31/7/23 Semester 2 Blog](Blogs/31_7_23 Blog.md)
 
 * [24/7/23 PDD Blog](Blogs/24_7_23 Blog.md)
 
