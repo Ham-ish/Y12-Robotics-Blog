@@ -2,7 +2,7 @@ Robotics Blog
 
 # Most Recent Post:
 
-[31/7/23 Semester 2 Blog](Blogs/31_7_23 Blog.md)
+[7/8/23 First Prototype Blog](Blogs/7_8_23 Blog.md)
 
 ## All posts
 
