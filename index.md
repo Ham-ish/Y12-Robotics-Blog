@@ -2,11 +2,15 @@ Robotics Blog
 
 # Most Recent Post:
 
-[14/8/23 Hand Progress and ICAW Blog](Blogs/14_8_23 Blog.md)
+[21/8/23 Post ICAW Blog](Blogs/21_8_23 Blog.md)
 
 ## All posts
 
+* [21/8/23 Post ICAW Blog](Blogs/21_8_23 Blog.md)
+
 * [14/8/23 Hand Progress and ICAW Blog](Blogs/14_8_23 Blog.md)
+
+* [7/8/23 First Prototype Blog](Blogs/14_8_23 Blog.md)
 
 * [31/7/23 Semester 2 Blog](Blogs/31_7_23 Blog.md)
 
