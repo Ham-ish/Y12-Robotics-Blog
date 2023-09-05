@@ -2,7 +2,7 @@ Robotics Blog
 
 # Most Recent Post:
 
-4/9/23 Pre-AST Blog](Blogs/21_8_23 Blog.md)
+[4/9/23 Pre-AST Blog](Blogs/21_8_23 Blog.md)
 
 ## All posts
 
