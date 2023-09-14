@@ -2,9 +2,11 @@ Robotics Blog
 
 # Most Recent Post:
 
-[4/9/23 Pre-AST Blog](Blogs/4_9_23 Blog.md)
+[11/9/23 Cool Stuff Blog](Blogs/11_9_23 Blog.md)
 
 ## All posts
+
+* [11/9/23 Cool Stuff Blog](Blogs/11_9_23 Blog.md)
 
 * [4/9/23 Close to AST Blog](Blogs/4_9_23 Blog.md)
 
