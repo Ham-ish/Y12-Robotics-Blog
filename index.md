@@ -2,9 +2,13 @@ Robotics Blog
 
 # Most Recent Post:
 
-[11/9/23 Cool Stuff Blog](Blogs/11_9_23 Blog.md)
+[12/10/23 The Beginning of the End Blog](Blogs/11_9_23 Blog.md)
 
 ## All posts
+
+* [12/10/23 The Beginning of the End Blog](Blogs/11_9_23 Blog.md)
+
+* [18/9/23 Less Cool Blog](Blogs/11_9_23 Blog.md)
 
 * [11/9/23 Cool Stuff Blog](Blogs/11_9_23 Blog.md)
 
