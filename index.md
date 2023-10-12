@@ -2,7 +2,7 @@ Robotics Blog
 
 # Most Recent Post:
 
-[12/10/23 The Beginning of the End Blog](Blogs/12_10_23 Blog.md)
+[13/10/23 The Beginning of the End Blog](Blogs/12_10_23 Blog.md)
 
 ## All posts
 
